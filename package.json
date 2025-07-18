@@ -1,0 +1,17 @@
+{
+  "name": "basic-signup-api",
+  "version": "1.0.0",
+  "description": "Basic user signup API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "bcryptjs": "^2.4.3",
+    "validator": "^13.11.0"
+  },
+  "keywords": ["signup", "registration", "basic"],
+  "author": "",
+  "license": "MIT"
+}
